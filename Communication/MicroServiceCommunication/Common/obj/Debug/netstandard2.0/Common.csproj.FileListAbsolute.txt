@@ -1,0 +1,8 @@
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\alino\OneDrive\Desktop\MicroService\Communication\MicroServiceCommunication\Common\obj\Debug\netstandard2.0\Common.pdb

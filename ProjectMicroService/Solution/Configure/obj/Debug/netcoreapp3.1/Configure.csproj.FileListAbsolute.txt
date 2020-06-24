@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\bin\Debug\netcoreapp3.1\Configure.deps.json
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\bin\Debug\netcoreapp3.1\Configure.dll
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\obj\Debug\netcoreapp3.1\Configure.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\obj\Debug\netcoreapp3.1\Configure.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\bin\Debug\netcoreapp3.1\Configure.pdb
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\obj\Debug\netcoreapp3.1\Configure.dll
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\obj\Debug\netcoreapp3.1\Configure.pdb
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\obj\Debug\netcoreapp3.1\Configure.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\obj\Debug\netcoreapp3.1\Configure.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\alino\OneDrive\Desktop\MicroService\ProjectMicroService\Solution\Configure\obj\Debug\netcoreapp3.1\Configure.csproj.CopyComplete

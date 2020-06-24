@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7+pLfM19c0fOxSHU7KUo1zQlxvGZNoUj3Qg5gpVSeGxE8k6RCTyBNGi/cCNHqgTdupzDvZn6OuX6hC1KpVy7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicroService\\Communication\\MicroServiceCommunication\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

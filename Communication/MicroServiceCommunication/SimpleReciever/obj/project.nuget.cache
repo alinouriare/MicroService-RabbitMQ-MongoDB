@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "StpP4Uqp2l9x97ITRVx+Ufe1+iZEsP2/iTVP0cHpm7dgQNLRYg8YKYlIP+yNd7aAeBNRQQcvCRWfzzmtnZAbWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicroService\\Communication\\MicroServiceCommunication\\SimpleReciever\\SimpleReciever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

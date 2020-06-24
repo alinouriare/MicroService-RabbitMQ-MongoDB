@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPC6hDIDAW3qSWagyb/iJWhYp3oeRpjre+I9Rn2kCCRS6dOXdHCUmtxjMBu1q3sJkycwz02iOj5TISMkdmXjBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicroService\\Communication\\MicroServiceCommunication\\SimpleSender\\SimpleSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

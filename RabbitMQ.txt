@@ -1,0 +1,7 @@
+Install:
+otp_win64_23.0
+rabbitmq-server-3.8.4
+---------------
+rabbitmq-plugins enable rabbitmq_management
+http://localhost:15672/
+--------------------
